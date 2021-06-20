@@ -1,0 +1,2 @@
+[0602/000114:ERROR:tcp_socket_win.cc(647)] closesocket: 应用程序没有调用 WSAStartup，或者 WSAStartup 失败。 (0x276D)
+[0602/000114:ERROR:tcp_socket_win.cc(647)] closesocket: 应用程序没有调用 WSAStartup，或者 WSAStartup 失败。 (0x276D)
